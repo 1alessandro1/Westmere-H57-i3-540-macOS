@@ -1,2 +1,2 @@
 # Westmere-H57-i3-540-macOS
-This repository implements CVS for this ESP
+This repository implements revision history for this ESP
